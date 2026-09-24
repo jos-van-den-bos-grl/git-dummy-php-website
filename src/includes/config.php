@@ -14,5 +14,6 @@ $dbConfig = [
 
 // Eenvoudige navigatielinks die in alle views worden gebruikt
 $navLinks = [
-    'Home' => '/index.php',
+    'Home'      => '/index.php',
+    'Over ons'  => '/about.php',
 ];
