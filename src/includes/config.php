@@ -16,4 +16,5 @@ $dbConfig = [
 $navLinks = [
     'Home'      => '/index.php',
     'Over ons'  => '/about.php',
+    'Contact'   => '/contact.php',
 ];
